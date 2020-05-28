@@ -1,3 +1,5 @@
+console.log('importing setupForm.js')
+
 import { get } from './util'
 
 export default function setupForm(selector) {

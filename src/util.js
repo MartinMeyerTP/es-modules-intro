@@ -1,3 +1,5 @@
+console.log('importing util.js')
+
 export function get(selector) {
   console.log('get', selector)
   /* ... */
