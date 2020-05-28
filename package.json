@@ -1,0 +1,24 @@
+{
+  "name": "es-modules-intro",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamarob/es-modules-intro.git"
+  },
+  "keywords": [],
+  "author": "Jan Robert",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jamarob/es-modules-intro/issues"
+  },
+  "homepage": "https://github.com/jamarob/es-modules-intro#readme"
+}
