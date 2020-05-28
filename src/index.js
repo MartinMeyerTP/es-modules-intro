@@ -1,3 +1,5 @@
+import { get, getAll } from 'util'
+
 setupNavbar('.navbar')
 setupForm('.form')
 
@@ -22,15 +24,5 @@ function handleSubmit(event) {
 }
 
 function validate(formdata) {
-  /* ... */
-}
-
-function get(selector) {
-  console.log('get', selector)
-  /* ... */
-}
-
-function getAll(selector) {
-  console.log('getAll', selector)
   /* ... */
 }
